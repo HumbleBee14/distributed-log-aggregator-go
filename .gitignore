@@ -1,0 +1,45 @@
+# Binaries and build artifacts
+/bin/
+/obj/
+/tmp/
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Go module files
+go.sum
+
+# Dependency directories (when using vendoring)
+vendor/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and debugging
+*.log
+*.test
+
+# Coverage reports
+coverage.out
+*.cov
+
+# Compiled archives
+*.zip
+*.tar.gz
+*.tgz
+
+# Generated files
+gen/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
