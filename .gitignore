@@ -9,7 +9,7 @@
 *.dll
 
 # Go module files
-go.sum
+# go.sum
 
 # Dependency directories (when using vendoring)
 vendor/
